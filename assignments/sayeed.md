@@ -32,6 +32,8 @@
 
 ###
 
+<h2 align="left">Connect with me:</h2>
+
 <div align="left">
   <a href="sayeedanwar@protonmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -44,8 +46,6 @@
 </div>
 
 ###
-
-<h2 align="left">Connect with me:</h2>
 
 ###
 
